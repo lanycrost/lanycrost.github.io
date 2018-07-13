@@ -1,0 +1,24 @@
+baseurl = "https://lanycrost.github.io"
+title = "Khachatur Ashotyan's portfolio | lanycrost | Let's Rock!"
+languageCode = "en-us"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "lanycrost"
+  TwitterID = "lanycrost"
+  LinkedInID = "lanycrost"
+  FacebookID = "lanycrost"
+  TelegramID = "lanycrost"
+  HeaderUsername = "lanycrost"
+  HeaderHostname = "lanycrost"
+  Email = "khachatur.ashotyan@gmail.com"
+
