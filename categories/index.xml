@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Khachatur Ashotyan&#39;s portfolio | lanycrost | Let&#39;s Rock!</title>
+    <link>https://lanycrost.github.io/categories/</link>
+    <description>Recent content in Categories on Khachatur Ashotyan&#39;s portfolio | lanycrost | Let&#39;s Rock!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://lanycrost.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Everyday</title>
+      <link>https://lanycrost.github.io/categories/everyday/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lanycrost.github.io/categories/everyday/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

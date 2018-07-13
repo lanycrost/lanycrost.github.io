@@ -1,6 +1,7 @@
 baseurl = "https://lanycrost.github.io"
 title = "Khachatur Ashotyan's portfolio | lanycrost | Let's Rock!"
 languageCode = "en-us"
+publishDir = "docs"
 
 [menu]
   [[menu.header]]
