@@ -8,8 +8,23 @@ languageCode = "en-us"
     weight = 0
     url = "/post"
   [[menu.header]]
-    name = "about"
+    name = "~/works"
+    identifier = "works"
     weight = 1
+    url = "#"
+  [[menu.header]]
+    Name = "OSSU"
+    parent = "works"
+    URL = "/computer-science"
+    Weight = 1.0
+  [[menu.header]]
+    Name = "WHOIS Server"
+    parent = "works"
+    URL = "https://github.com/lanycrost/whois-server"
+    Weight = 2.0
+  [[menu.header]]
+    name = "about"
+    weight = 2
     url = "/about"
 
 [params]
@@ -21,4 +36,6 @@ languageCode = "en-us"
   HeaderUsername = "lanycrost"
   HeaderHostname = "lanycrost"
   Email = "khachatur.ashotyan@gmail.com"
-
+  InstagramID = "lanycrost"
+  CodeStatsID = "lanycrost"
+  WeChallID = "lanycrost"
