@@ -1,16 +1,26 @@
 baseurl = "https://lanycrost.github.io"
-title = "Khachatur Ashotyan's portfolio | lanycrost | Let's Rock!"
+title = "Khachatur Ashotyan's Home in the NET | lanycrost | Let's Rock!"
 languageCode = "en-us"
 publishDir = "docs"
 
 [menu]
   [[menu.header]]
-    name = "post"
+    name = "stories"
     weight = 0
-    url = "/post"
+    url = "https://medium.com/@lanycrost"
+  [[menu.header]]
+    name = "~/works"
+    identifier = "works"
+    weight = 1
+    url = "#"
+  [[menu.header]]
+    Name = "WHOIS-Server"
+    parent = "works"
+    URL = "https://github.com/lanycrost/whois-server"
+    Weight = 1.0
   [[menu.header]]
     name = "about"
-    weight = 1
+    weight = 2
     url = "/about"
 
 [params]
@@ -18,8 +28,8 @@ publishDir = "docs"
   TwitterID = "lanycrost"
   LinkedInID = "lanycrost"
   FacebookID = "lanycrost"
-  TelegramID = "lanycrost"
-  HeaderUsername = "lanycrost"
-  HeaderHostname = "lanycrost"
-  Email = "khachatur.ashotyan@gmail.com"
-
+  HeaderUsername = "me"
+  HeaderHostname = "lanycrost.net"
+  InstagramID = "lanycrost"
+  CodeStatsID = "lanycrost"
+  WeChallID = "lanycrost"

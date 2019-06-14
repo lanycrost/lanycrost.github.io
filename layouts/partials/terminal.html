@@ -13,21 +13,18 @@
 		</span>
 	</div>
 	<div class="command">
-		<p class="stdin">who im a</p>
-		<p class="stdout" style="display:block;font-weight:bold;font-family: monospace;color: #0F0;font-size:12px;">
-Hi I'm a Khachatur or just Khach.<br>I'm a DevOps engineer, functional programming enthusiast, Blah, blah, blah...<br>
-Hi I'm a Khachatur or just Khach.<br>I'm a DevOps engineer, functional programming enthusiast, Blah, blah, blah...<br>
-Hi I'm a Khachatur or just Khach.<br>I'm a DevOps engineer, functional programming enthusiast, Blah, blah, blah...<br>
-Hi I'm a Khachatur or just Khach.<br>I'm a DevOps engineer, functional programming enthusiast, Blah, blah, blah...<br>
+		<p class="stdin">who am a</p>
+		<span class="stdout" style="display:block;font-weight:bold;font-family: monospace;color: #0F0;font-size:12px; margin-left: 15px;">
+Hi I'm a Khachatur or just Khach.<br>I'm a DevOps engineer, functional programming enthusiast... <a href="{{ "about" | absURL }}">blah, blah, blah...</a>
 		</span>
 	</div>
 	<div class="command">
 		<p class="stdin">netstat</p>
-		<span class="stdout container">	
+		<div class="stdout">	
 			<div class="user-social">
 			{{ partial "social.html" . }}
 			</div>
-		</span>
+		</div>
 	</div>
 </main>
 
