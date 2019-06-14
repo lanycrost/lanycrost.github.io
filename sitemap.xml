@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lanycrost.github.io/about/</loc>
+    <loc>https://lanycrost.net/about/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/</loc>
+    <loc>https://lanycrost.net/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/categories/</loc>
+    <loc>https://lanycrost.net/categories/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/categories/everyday/</loc>
+    <loc>https://lanycrost.net/categories/everyday/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/post/welcome/</loc>
+    <loc>https://lanycrost.net/post/welcome/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/post/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lanycrost.github.io/tags/</loc>
+    <loc>https://lanycrost.net/post/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/tags/dance/</loc>
+    <loc>https://lanycrost.net/tags/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/tags/drawing/</loc>
+    <loc>https://lanycrost.net/tags/dance/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/tags/hacking/</loc>
+    <loc>https://lanycrost.net/tags/drawing/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/tags/living/</loc>
+    <loc>https://lanycrost.net/tags/hacking/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanycrost.github.io/tags/programming/</loc>
+    <loc>https://lanycrost.net/tags/living/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lanycrost.net/tags/programming/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

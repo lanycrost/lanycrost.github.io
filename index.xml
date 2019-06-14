@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Khachatur Ashotyan&#39;s Home in the NET | lanycrost | Let&#39;s Rock!</title>
-    <link>https://lanycrost.github.io/</link>
+    <link>https://lanycrost.net/</link>
     <description>Recent content on Khachatur Ashotyan&#39;s Home in the NET | lanycrost | Let&#39;s Rock!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lanycrost.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lanycrost.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://lanycrost.github.io/about/</link>
+      <link>https://lanycrost.net/about/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lanycrost.github.io/about/</guid>
+      <guid>https://lanycrost.net/about/</guid>
       <description>I am a young engineer, and you are welcome to my home on the web.
 I currently work as a DevOps engineer in several projects. I have a demonstrated history of working in the architecture, design, and implementation of infrastructure an network industry. I have strong knowledge of the Operations and Security, with strong Programming skills.
 I have a hands-on experience in supporting, automating, and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes.</description>
@@ -24,10 +24,10 @@ I have a hands-on experience in supporting, automating, and optimizing mission-c
     
     <item>
       <title>Lorem fuckin ipsum</title>
-      <link>https://lanycrost.github.io/post/welcome/</link>
+      <link>https://lanycrost.net/post/welcome/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lanycrost.github.io/post/welcome/</guid>
+      <guid>https://lanycrost.net/post/welcome/</guid>
       <description>Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.
 Cum horribilem resurgere de sepulcris creaturis, sicut de iride et serpens.</description>
     </item>
