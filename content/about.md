@@ -30,9 +30,9 @@ Computer and network hacker, functional programming enthusiast, *nix man, BSD lo
 
 I’m ready to answer your questions or contact with you, just **PING** me :)
 
-**Email: [khachatur.ashotyan@gmail.com](mailto:khachatur.ashotyan@gmail.com)**
+**Email: ping[at]lanycrost.net**
 
-**Telegram: [@lanycrost](https://t.me/lanycrost)**
+**IRC Freenode: lanycrost**
 
 **Twitter: [@lanycrost](https://twitter.com/lanycrost)**
 
