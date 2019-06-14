@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Khachatur Ashotyan&#39;s portfolio | lanycrost | Let&#39;s Rock!</title>
+    <title>Khachatur Ashotyan&#39;s Home in the NET | lanycrost | Let&#39;s Rock!</title>
     <link>https://lanycrost.github.io/</link>
-    <description>Recent content on Khachatur Ashotyan&#39;s portfolio | lanycrost | Let&#39;s Rock!</description>
+    <description>Recent content on Khachatur Ashotyan&#39;s Home in the NET | lanycrost | Let&#39;s Rock!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lanycrost.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://lanycrost.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About me</title>
@@ -15,42 +17,9 @@
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lanycrost.github.io/about/</guid>
-      <description>&lt;p&gt;I am a young engineer, and you are welcome to my home on the web.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I currently work as a &lt;strong&gt;DevOps engineer&lt;/strong&gt; in several projects. I have a demonstrated history of working in the &lt;strong&gt;architecture, design, and implementation&lt;/strong&gt; of infrastructure an network industry. I have strong knowledge of the &lt;strong&gt;Operations&lt;/strong&gt; and &lt;strong&gt;Security&lt;/strong&gt;, with strong &lt;strong&gt;Programming&lt;/strong&gt; skills.&lt;/p&gt;
-
-&lt;p&gt;I have a hands-on experience in supporting, automating, and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes.&lt;/p&gt;
-
-&lt;p&gt;My hobbies are reading books, painting, play in guitar. I’m an artoholic and meloman, I love a JAZZ, Classical music, rock, and so more.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I am a talk in &lt;a href=&#34;https://elixir-lang.org/&#34;&gt;Elixir/Erlang&lt;/a&gt;, &lt;a href=&#34;https://golang.org/&#34;&gt;Golang&lt;/a&gt;, &lt;a href=&#34;https://developer.mozilla.org/bm/docs/Web/JavaScript&#34;&gt;JavaScript&lt;/a&gt;, &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;https://www.gnu.org/software/bash/&#34;&gt;Bash&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/C_%28programming_language%29&#34;&gt;C&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Computer and network hacker, functional programming enthusiast, *nix man, BSD lover&amp;hellip;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.catb.org/esr/writings/cathedral-bazaar/&#34;&gt;The Open Source is my zen&amp;hellip;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I’m ready to answer your questions or contact with you, just &lt;strong&gt;PING&lt;/strong&gt; me :)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Email: &lt;a href=&#34;mailto:khachatur.ashotyan@gmail.com&#34;&gt;khachatur.ashotyan@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Telegram: &lt;a href=&#34;https://t.me/lanycrost&#34;&gt;@lanycrost&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Twitter: &lt;a href=&#34;https://twitter.com/lanycrost&#34;&gt;@lanycrost&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Facebook: &lt;a href=&#34;https://facebook.com/lanycrost&#34;&gt;Khachatur Ashotyan&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;LinkedIn: &lt;a href=&#34;https://linkedin.com/in/lanycrost&#34;&gt;Khachatur Ashotyan&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>I am a young engineer, and you are welcome to my home on the web.
+I currently work as a DevOps engineer in several projects. I have a demonstrated history of working in the architecture, design, and implementation of infrastructure an network industry. I have strong knowledge of the Operations and Security, with strong Programming skills.
+I have a hands-on experience in supporting, automating, and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes.</description>
     </item>
     
     <item>
@@ -59,12 +28,8 @@
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lanycrost.github.io/post/welcome/</guid>
-      <description>&lt;p&gt;Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.&lt;/p&gt;
-
-&lt;p&gt;Cum horribilem resurgere de sepulcris creaturis, sicut de iride et serpens. Pestilentia, ipsa screams. Pestilentia est haec ambulabat mortuos. Sicut malus voodoo. Aenean a dolor vulnerum aperire accedunt, mortui iam vivam. Qui tardius moveri, sed in magna copia sint terribiles legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi odores aere implent.&lt;/p&gt;
-
-&lt;p&gt;Tremor est vivos magna. Expansis ulnis video missing carnem armis caeruleum in locis. A morbo amarus in auras. Nihil horum sagittis tincidunt, gelida portenta. The unleashed virus est, et iam mortui ambulabunt super terram. Souless mortuum oculos attonitos back zombies. An hoc incipere Clairvius Narcisse, an ante? Is bello mundi z?&lt;/p&gt;
-</description>
+      <description>Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.
+Cum horribilem resurgere de sepulcris creaturis, sicut de iride et serpens.</description>
     </item>
     
   </channel>
